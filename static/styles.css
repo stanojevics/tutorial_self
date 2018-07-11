@@ -28,3 +28,16 @@
 .span-class {
     color: green;
 }
+
+
+/**
+* LOGIN BRANCH:
+*/
+
+.login-button {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 100px;
+    max-width: 200px;
+    appearance: none;
+}
