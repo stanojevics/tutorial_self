@@ -1,0 +1,30 @@
+.content {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
+    border: 2px blue dotted
+}
+
+.content-header {
+    color: red;
+    font-size: 25;
+}
+
+.list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.list-elem {
+    font-weight: 300;
+    display: block;
+    padding: 10px;
+    width: 400px;
+    height: 50px;
+    border: 1px green solid;
+}
+
+.span-class {
+    color: green;
+}
